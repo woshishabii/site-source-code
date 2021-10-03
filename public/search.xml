@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>Alpha 0.0.1 UPDATE!</title>
+    <url>/2021/10/01/Alpha-0-0-1-UPDATE/</url>
+    <content><![CDATA[<h1 id="Naughty-MInecraft-Server-Launcher-Alpha-0-0-1-更新"><a href="#Naughty-MInecraft-Server-Launcher-Alpha-0-0-1-更新" class="headerlink" title="Naughty MInecraft Server Launcher Alpha 0.0.1 更新"></a>Naughty MInecraft Server Launcher Alpha 0.0.1 更新</h1><h2 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a>更新内容</h2><ul>
+<li><p>使用getbukkit作为下载源的vanilla/spigot/craftbukkit服务端下载</p>
+</li>
+<li><p>服务器启动</p>
+</li>
+<li><p>server.properties 配置编辑</p>
+</li>
+<li><p>多版本</p>
+</li>
+<li><p>暂时使用easygui作为GUI库</p>
+</li>
+</ul>
+<h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><ul>
+<li><p>Github: <a href="https://github.com/woshishabii/Naughty-Minecraft-Server-Launcher">Naughty Minecraft Server Launcher</a></p>
+</li>
+<li><p>Gitee: <a href="https://gitee.com/chen_xingyu/minecraft-server-tool">Naughty Minecraft Server Launcher</a></p>
+<h2 id="支持"><a href="#支持" class="headerlink" title="支持"></a>支持</h2></li>
+<li><p>爱发电: <a href="https://afdian.net/@woshishabi">我是傻逼正在创作我的世界-服务器启动器 | 爱发电 (afdian.net)</a></p>
+</li>
+</ul>
+]]></content>
+      <tags>
+        <tag>UPDATE LOG</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Alpha 0.0.2 UPDATE!</title>
+    <url>/2021/10/01/Alpha-0-0-2-UPDATE/</url>
+    <content><![CDATA[<h1 id="Naughty-MInecraft-Server-Launcher-Alpha-0-0-2-更新"><a href="#Naughty-MInecraft-Server-Launcher-Alpha-0-0-2-更新" class="headerlink" title="Naughty MInecraft Server Launcher Alpha 0.0.2 更新"></a>Naughty MInecraft Server Launcher Alpha 0.0.2 更新</h1><h2 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a>更新内容</h2><ul>
+<li>测试kivy GUI库（经测不可用</li>
+</ul>
+<h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><ul>
+<li><p>Github: <a href="https://github.com/woshishabii/Naughty-Minecraft-Server-Launcher">Naughty Minecraft Server Launcher</a></p>
+</li>
+<li><p>Gitee: <a href="https://gitee.com/chen_xingyu/minecraft-server-tool">Naughty Minecraft Server Launcher</a></p>
+</li>
+<li><p>打包后的exe文件位于/dist/文件夹下</p>
+<h2 id="支持"><a href="#支持" class="headerlink" title="支持"></a>支持</h2></li>
+<li><p>爱发电: <a href="https://afdian.net/@woshishabi">我是傻逼正在创作我的世界-服务器启动器 | 爱发电 (afdian.net)</a></p>
+</li>
+</ul>
+]]></content>
+      <tags>
+        <tag>UPDATE LOG</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>项目大致说明</title>
+    <url>/2021/10/01/TODO/</url>
+    <content><![CDATA[<h1 id="Naughty-Minecraft-Server-Launcher"><a href="#Naughty-Minecraft-Server-Launcher" class="headerlink" title="Naughty Minecraft Server Launcher"></a><strong>Naughty Minecraft Server Launcher</strong></h1><h3 id="本启动器已正式更名为Naughty-Minecraft-Server-Launcher-NMSL"><a href="#本启动器已正式更名为Naughty-Minecraft-Server-Launcher-NMSL" class="headerlink" title="本启动器已正式更名为Naughty Minecraft Server Launcher(NMSL)"></a><em><strong>本启动器已正式更名为Naughty Minecraft Server Launcher(NMSL)</strong></em></h3><h2 id="介绍"><a href="#介绍" class="headerlink" title="介绍"></a>介绍</h2><p>史上最简洁的服务器启动器（简洁到只有基本功能</p>
+<h2 id="安装教程"><a href="#安装教程" class="headerlink" title="安装教程"></a>安装教程</h2><ol>
+<li> 下载/dist/Alpha0.0.1.exe</li>
+</ol>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">包括所用功能的版本：/dist/Alpha0.0.1.exe</span><br><span class="line">测试杂七杂八功能的版本：/dist/Alpha0.0.3.exe</span><br></pre></td></tr></table></figure>
+
+<ol start="2">
+<li> 下载后放至单独文件夹（建议），如有报毒请添加信任（如果不相信可以请别人读源代码</li>
+<li> 直接运行</li>
+</ol>
+<h2 id="使用说明"><a href="#使用说明" class="headerlink" title="使用说明"></a>使用说明</h2><ol>
+<li> 由于使用外国下载源，速度可能比较慢，如果出现命令行窗口还在，GUI消失的情况，请等待一段时间，如果仍然没有响应，可以尝试重新启动程序（可能导致下载的文件损坏，删除即可</li>
+<li> 如果可以的话可以去<a href="https://afdian.net/@woshishabi">我是傻逼正在创作我的世界-服务器启动器 | 爱发电 (afdian.net)</a>支持一下</li>
+<li> 本程序代码全部为原创，如有雷同，那真巧啊</li>
+</ol>
+<h2 id="参与贡献"><a href="#参与贡献" class="headerlink" title="参与贡献"></a>参与贡献</h2><p>​    邮箱:<a href="mailto:&#106;&#103;&#98;&#115;&#120;&#120;&#50;&#48;&#49;&#51;&#48;&#x33;&#x31;&#x35;&#64;&#49;&#54;&#x33;&#46;&#99;&#x6f;&#x6d;">&#106;&#103;&#98;&#115;&#120;&#120;&#50;&#48;&#49;&#51;&#48;&#x33;&#x31;&#x35;&#64;&#49;&#54;&#x33;&#46;&#99;&#x6f;&#x6d;</a></p>
+<h2 id="库"><a href="#库" class="headerlink" title="库"></a>库</h2><p>easygui == 0.98.2 (可能会被删除)</p>
+<p>requests == 2.26.0</p>
+<p>beautifulsoup4 == 4.9.3</p>
+<h2 id="计划"><a href="#计划" class="headerlink" title="计划"></a>计划</h2><ul>
+<li><input disabled="" type="checkbox"> Spigot 服务器配置修改 (spigot.yml)</li>
+<li><input disabled="" type="checkbox"> 新 GUI</li>
+<li><input disabled="" type="checkbox"> Forge 服务端下载</li>
+<li><input disabled="" type="checkbox"> MOD 网站解析 CurseForge</li>
+<li><input disabled="" type="checkbox"> 插件网站解析 dev.bukkit</li>
+<li><input disabled="" type="checkbox"> 世界编辑</li>
+<li><input disabled="" type="checkbox"> java 配置</li>
+<li><input disabled="" type="checkbox"> 新下载模块（多线程之类的）</li>
+<li><input disabled="" type="checkbox"> Minecraft Daemon Reforged 支持</li>
+<li><input disabled="" type="checkbox"> 各种奇奇怪怪的服务端下载解析</li>
+<li><ul>
+<li><input disabled="" type="checkbox"> Uranium</li>
+</ul>
+</li>
+<li><ul>
+<li><input disabled="" type="checkbox"> Thermos</li>
+</ul>
+</li>
+<li><ul>
+<li><input disabled="" type="checkbox"> Mohist</li>
+</ul>
+</li>
+<li><ul>
+<li><input disabled="" type="checkbox"> CatServer</li>
+</ul>
+</li>
+<li><ul>
+<li><input disabled="" type="checkbox"> Cauldron*</li>
+</ul>
+</li>
+<li><ul>
+<li><input disabled="" type="checkbox"> KCauldron*</li>
+</ul>
+</li>
+<li><ul>
+<li><input disabled="" type="checkbox"> LoliServer</li>
+</ul>
+</li>
+<li><ul>
+<li><input disabled="" type="checkbox"> ArcLight</li>
+</ul>
+</li>
+<li><ul>
+<li><input disabled="" type="checkbox"> Paper</li>
+</ul>
+</li>
+<li><ul>
+<li><input disabled="" type="checkbox"> Akarin</li>
+</ul>
+</li>
+<li><ul>
+<li><input disabled="" type="checkbox"> TorchSpigot</li>
+</ul>
+</li>
+<li><ul>
+<li><input disabled="" type="checkbox"> Cuberite</li>
+</ul>
+</li>
+<li><ul>
+<li><input disabled="" type="checkbox"> GlowStone</li>
+</ul>
+</li>
+<li><ul>
+<li><input disabled="" type="checkbox"> Hose</li>
+</ul>
+</li>
+<li><ul>
+<li><input disabled="" type="checkbox"> TacoSpigot</li>
+</ul>
+</li>
+<li><ul>
+<li><input disabled="" type="checkbox"> MEENET</li>
+</ul>
+</li>
+<li><ul>
+<li><input disabled="" type="checkbox"> SpongeVanilla</li>
+</ul>
+</li>
+<li><ul>
+<li><input disabled="" type="checkbox"> SpongeForge</li>
+</ul>
+</li>
+<li><ul>
+<li><input disabled="" type="checkbox"> Tuinity</li>
+</ul>
+</li>
+<li><ul>
+<li><input disabled="" type="checkbox"> Purpur</li>
+</ul>
+</li>
+<li><ul>
+<li><input disabled="" type="checkbox"> Airplane</li>
+</ul>
+</li>
+<li><ul>
+<li><input disabled="" type="checkbox"> MCPC+</li>
+</ul>
+</li>
+<li><ul>
+<li><input disabled="" type="checkbox"> Contigo</li>
+</ul>
+</li>
+<li><ul>
+<li><input disabled="" type="checkbox"> Atom</li>
+</ul>
+</li>
+<li><ul>
+<li><input disabled="" type="checkbox"> Kettle</li>
+</ul>
+</li>
+<li><ul>
+<li><input disabled="" type="checkbox"> Magma</li>
+</ul>
+</li>
+<li><ul>
+<li><input disabled="" type="checkbox"> Bedrock 服务端（？）</li>
+</ul>
+</li>
+<li><ul>
+<li><input disabled="" type="checkbox"> PocketMine（？？？）</li>
+</ul>
+</li>
+<li><ul>
+<li><input disabled="" type="checkbox"> MiNET（？？？？？）</li>
+</ul>
+</li>
+<li><ul>
+<li><input disabled="" type="checkbox"> Nemisys（wtf）</li>
+</ul>
+</li>
+<li><ul>
+<li><input disabled="" type="checkbox"> Nukkit / NukkitX （你tm故意找茬是吧）</li>
+</ul>
+</li>
+<li><ul>
+<li><input disabled="" type="checkbox"> Terraria （？？？？？？？？？？）</li>
+</ul>
+</li>
+<li><input disabled="" type="checkbox"> Fabric 服务端配置</li>
+<li><input disabled="" type="checkbox"> 使用pipeline进行接口调用、日志分析**</li>
+<li><input disabled="" type="checkbox"> 重构</li>
+<li><input disabled="" type="checkbox"> 更好的多版本设置（各个版本单独设置文件）</li>
+<li><input disabled="" type="checkbox"> 多线程实装</li>
+<li><input disabled="" type="checkbox"> 更加银杏的安装步骤（Much More Personalized Installation Guide –&gt; MMP的安装）</li>
+<li><input disabled="" type="checkbox"> 国内镜像源的使用</li>
+<li><input disabled="" type="checkbox"> WaterFall / Velovity / BungeeCord / DragonProxy / HexaCord / Travertine / LilyPad</li>
+<li><input disabled="" type="checkbox"> 内网穿透（frp）的部署</li>
+<li><input disabled="" type="checkbox"> 自动导出客户端</li>
+<li><input disabled="" type="checkbox"> Geyser</li>
+<li><input disabled="" type="checkbox"> 模组支持</li>
+<li><ul>
+<li><input disabled="" type="checkbox"> Forge</li>
+</ul>
+</li>
+<li><ul>
+<li><input disabled="" type="checkbox"> Fabric</li>
+</ul>
+</li>
+<li><ul>
+<li><input disabled="" type="checkbox"> LiteLoader</li>
+</ul>
+</li>
+<li><ul>
+<li><input disabled="" type="checkbox"> Git Pages 源</li>
+</ul>
+</li>
+<li><input disabled="" type="checkbox"> 地图编辑 Amulet</li>
+</ul>
+]]></content>
+      <tags>
+        <tag>README</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Alpha 0.0.3 UPDATE!</title>
+    <url>/2021/10/01/Alpha-0-0-3-UPDATE/</url>
+    <content><![CDATA[<h1 id="Naughty-MInecraft-Server-Launcher-Alpha-0-0-3-更新"><a href="#Naughty-MInecraft-Server-Launcher-Alpha-0-0-3-更新" class="headerlink" title="Naughty MInecraft Server Launcher Alpha 0.0.3 更新"></a>Naughty MInecraft Server Launcher Alpha 0.0.3 更新</h1><h2 id="更新内容"><a href="#更新内容" class="headerlink" title="更新内容"></a>更新内容</h2><ul>
+<li>测试 Tkinter Gui 库</li>
+</ul>
+<h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><ul>
+<li><p>Github: <a href="https://github.com/woshishabii/Naughty-Minecraft-Server-Launcher">Naughty Minecraft Server Launcher</a></p>
+</li>
+<li><p>Gitee: <a href="https://gitee.com/chen_xingyu/minecraft-server-tool">Naughty Minecraft Server Launcher</a></p>
+</li>
+<li><p>打包后的exe文件位于/dist/文件夹下</p>
+<h2 id="支持"><a href="#支持" class="headerlink" title="支持"></a>支持</h2></li>
+<li><p>爱发电: <a href="https://afdian.net/@woshishabi">我是傻逼正在创作我的世界-服务器启动器 | 爱发电 (afdian.net)</a></p>
+</li>
+</ul>
+]]></content>
+      <tags>
+        <tag>UPDATE LOG</tag>
+      </tags>
+  </entry>
+</search>

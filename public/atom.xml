@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>我是傻逼的小站</title>
+  
+  
+  <link href="http://woshishabii.github.io/atom.xml" rel="self"/>
+  
+  <link href="http://woshishabii.github.io/"/>
+  <updated>2021-10-01T10:39:10.306Z</updated>
+  <id>http://woshishabii.github.io/</id>
+  
+  <author>
+    <name>Woshishabi</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>项目大致说明</title>
+    <link href="http://woshishabii.github.io/2021/10/01/TODO/"/>
+    <id>http://woshishabii.github.io/2021/10/01/TODO/</id>
+    <published>2021-10-01T10:38:11.000Z</published>
+    <updated>2021-10-01T10:39:10.306Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Naughty-Minecraft-Server-Launcher&quot;&gt;&lt;a href=&quot;#Naughty-Minecraft-Server-Launcher&quot; class=&quot;headerlink&quot; title=&quot;Naughty Minecraft Server</summary>
+        
+      
+    
+    
+    
+    
+    <category term="README" scheme="http://woshishabii.github.io/tags/README/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Alpha 0.0.1 UPDATE!</title>
+    <link href="http://woshishabii.github.io/2021/10/01/Alpha-0-0-1-UPDATE/"/>
+    <id>http://woshishabii.github.io/2021/10/01/Alpha-0-0-1-UPDATE/</id>
+    <published>2021-10-01T00:47:11.000Z</published>
+    <updated>2021-10-01T01:22:26.253Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Naughty-MInecraft-Server-Launcher-Alpha-0-0-1-更新&quot;&gt;&lt;a href=&quot;#Naughty-MInecraft-Server-Launcher-Alpha-0-0-1-更新&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="UPDATE LOG" scheme="http://woshishabii.github.io/tags/UPDATE-LOG/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Alpha 0.0.2 UPDATE!</title>
+    <link href="http://woshishabii.github.io/2021/10/01/Alpha-0-0-2-UPDATE/"/>
+    <id>http://woshishabii.github.io/2021/10/01/Alpha-0-0-2-UPDATE/</id>
+    <published>2021-10-01T00:47:11.000Z</published>
+    <updated>2021-10-01T03:52:41.510Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Naughty-MInecraft-Server-Launcher-Alpha-0-0-2-更新&quot;&gt;&lt;a href=&quot;#Naughty-MInecraft-Server-Launcher-Alpha-0-0-2-更新&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="UPDATE LOG" scheme="http://woshishabii.github.io/tags/UPDATE-LOG/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Alpha 0.0.3 UPDATE!</title>
+    <link href="http://woshishabii.github.io/2021/10/01/Alpha-0-0-3-UPDATE/"/>
+    <id>http://woshishabii.github.io/2021/10/01/Alpha-0-0-3-UPDATE/</id>
+    <published>2021-10-01T00:47:11.000Z</published>
+    <updated>2021-10-01T08:32:55.385Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Naughty-MInecraft-Server-Launcher-Alpha-0-0-3-更新&quot;&gt;&lt;a href=&quot;#Naughty-MInecraft-Server-Launcher-Alpha-0-0-3-更新&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="UPDATE LOG" scheme="http://woshishabii.github.io/tags/UPDATE-LOG/"/>
+    
+  </entry>
+  
+</feed>
